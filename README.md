@@ -9,7 +9,7 @@ No integration costs, no monthly fee, no minimum spend is required. You pay only
 
 MODULE FEATURES: 
 - Send text messages to customers or administrators during various events in your Magento store. System also automatically recognizes your custom order statuses! 
-- Activation/deactivation of all events independently on each other. – Customization of SMS text for all events, possibility to use variable fields. 
+- Activation/deactivation of all events independently on each other.Customization of SMS text for all events, possibility to use variable fields. 
 - Multi-lingual versions of SMS text (If you ship your goods worldwide, you can notify your customers in each country in their national language)
 - Multi-store support. 
 - Multiple admin support (useful for large online stores with more administrators, who have separate responsibilities). 
